@@ -1,6 +1,27 @@
-# Défi Etna 
+# Introduction 
+
+Défi lancé par notre école, qui consiste à créer un système d'émargement via nos cartes. 
+
+
+Installation d'expo : 
+```
+npm install --global expo-cli
+```
+Initialiser l'application sous le nom donnée 
+```
+expo init my-app
+```
+Ouvrir le dossier 
+```
+cd my-app
+```
+Demarrer le projet 
+```
+expo start
+```
 
 Première partie : API 
+(En cours)
 
 - Authentification admin 
 
@@ -50,4 +71,9 @@ trié par leur status
 	}]	
 }
 ```
+
+### Schéma relationnel 
+
+![image](https://user-images.githubusercontent.com/102663245/161014511-68856e71-d39c-4ab6-8dd9-acd9ae518c8d.png)
+
 
